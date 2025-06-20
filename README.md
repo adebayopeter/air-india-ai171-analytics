@@ -1,4 +1,4 @@
-[![View in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-username-air-india-ai171.streamlit.app/)
+[![View in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://adebayopeter-air-india-ai171.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
