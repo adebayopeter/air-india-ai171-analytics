@@ -1,0 +1,17 @@
+# Include any files you want to ignore (do not want to push to GitHub)
+.ipynb_checkpoints
+.DS_Store
+.env
+.idea
+*.csv
+**/*.csv
+# virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Folders
+.idea/
+
+generate_og_image.py
